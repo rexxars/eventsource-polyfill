@@ -1,5 +1,7 @@
 # EventSource Polyfill
 
+[![npm version](https://img.shields.io/npm/v/%40rexxars%2Feventsource-polyfill.svg?style=flat-square)](https://www.npmjs.com/package/%40rexxars/eventsource-polyfill)[![npm bundle size](https://img.shields.io/bundlephobia/minzip/%40rexxars%2Feventsource-polyfill.svg?style=flat-square)](https://bundlephobia.com/result?p=%40rexxars%2Feventsource-polyfill)
+
 **Forked from [amvtek/EventSource](https://github.com/amvtek/EventSource)**. See [fork modification](#fork-modifications) for more details.
 
 Provide polyfill to support EventSource in browser where it is not available.
